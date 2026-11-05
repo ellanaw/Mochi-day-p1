@@ -1,0 +1,29 @@
+[
+  {
+    "id": "P1-001",
+    "title": "Fictional appointment paperwork",
+    "description": "Bring the signed form and fictional ID",
+    "status": "pending",
+    "next_action": "Locate the signed form",
+    "due_date": "2026-12-03",
+    "updated_at": "2026-11-05T12:00:00Z"
+  },
+  {
+    "id": "P1-002",
+    "title": "Fictional birthday preparation",
+    "description": "Prepare decorations and a guest checklist",
+    "status": "waiting",
+    "next_action": "Confirm fictional guest count",
+    "due_date": "2026-12-12",
+    "updated_at": "2026-11-05T12:00:00Z"
+  },
+  {
+    "id": "P1-003",
+    "title": "Fictional dormant project",
+    "description": "Resume approved draft, not the abandoned version",
+    "status": "pending",
+    "next_action": "Open approved draft v2",
+    "due_date": "",
+    "updated_at": "2026-11-05T12:00:00Z"
+  }
+]
